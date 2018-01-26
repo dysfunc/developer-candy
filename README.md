@@ -36,11 +36,20 @@ https://jsonlint.com/ - JSON validator and reformatter
 
 https://lebab.io/ - Lebab transpiles your JavaScript ES5 to ES6
 
+http://browsershots.org/ - Browsershots lets you see how your site looks on different operating systems and browsers (and various versions)
+
 ## Online Editors
 https://codepen.io/ 
 
 https://jsfiddle.net/
 
+# Website Performance Testing
+
+https://developers.google.com/speed/pagespeed/insights/ - Google PageSpeed: Understand how your webpage performance
+
+https://testmysite.thinkwithgoogle.com/intl/en-us - Think With Google: Understand how your webpage performs on mobile devices
+
+http://yslow.org/ - Browser extension that analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites
 
 
 
