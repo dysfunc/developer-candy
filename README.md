@@ -25,11 +25,14 @@ https://color.adobe.com/create/color-wheel/ - Color scheme generator
 
 https://icomoon.io - Create and manage your web fonts using various image formats
 
+https://picsvg.com/ - Converts images to SVG
+
+http://www.svgcreator.com/ - Converts JPG/JPEG/PNG/GIF to SVG
+
 ## Generators
 http://www.mockaroo.com - Generates fake data in CSV, JSON, SQL, and Excel formats.
 
 http://fillerama.io/ - Lorem Ipsum alternative filler text based on popular shows like Futurama, Doctor Who, Dexter, etc...
-
 
 ## Utils
 https://jsonlint.com/ - JSON validator and reformatter
@@ -51,5 +54,7 @@ https://testmysite.thinkwithgoogle.com/intl/en-us - Think With Google: Understan
 
 http://yslow.org/ - Browser extension that analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites
 
+# Diagrams / Drawing (architecture)
+https://www.websequencediagrams.com/ - Great if you need to create flow or architectural diagrams
 
 
