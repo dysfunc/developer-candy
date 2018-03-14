@@ -39,6 +39,13 @@ https://jsonlint.com/ - JSON validator and reformatter
 
 http://browsershots.org/ - Browsershots lets you see how your site looks on different operating systems and browsers (and various versions)
 
+https://github.com/prettier/prettier - Opinionated code formatter that helps keeps thing orderly and consistent when large groups contribute to a single codebase. 
+
+## Linters
+https://github.com/stylelint/stylelint - A modern CSS linter and fixer that helps you avoid errors and enforce consistent conventions
+
+https://eslint.org/ - Allows you to create and enforce your own configurable linting rules on JavaScript
+
 ## Online Editors
 https://codepen.io/ 
 
