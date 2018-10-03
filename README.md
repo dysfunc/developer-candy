@@ -9,7 +9,9 @@ https://kangax.github.io/compat-table/es6/ - ECMAScript browser support
 https://node.green - Node.js ES support
 
 ## RegEx
-http://regexr.com - RegExr is a UI tool for creating and validating regular expressions.
+https://regexr.com - RegExr is a UI tool for creating and validating regular expressions.
+
+https://regex101.com/ - Online RegEx Tester
 
 ## CSS
 http://www.colorzilla.com/gradient-editor/ - Ultimate CSS gradient generator
@@ -17,6 +19,13 @@ http://www.colorzilla.com/gradient-editor/ - Ultimate CSS gradient generator
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - A complete guide to Flexbox
 
 https://spritegen.website-performance.org/ - CSS Sprite Generator
+
+## CSS Pre-Processors
+https://sass-lang.com/
+
+http://lesscss.org/
+
+http://stylus-lang.com/
 
 ## Design
 https://coolors.co - Color scheme generator
@@ -27,7 +36,7 @@ https://icomoon.io - Create and manage your web fonts using various image format
 
 https://picsvg.com/ - Converts images to SVG
 
-http://www.svgcreator.com/ - Converts JPG/JPEG/PNG/GIF to SVG
+https://www.svgcreator.com/ - Converts JPG/JPEG/PNG/GIF to SVG
 
 ## Text & Fake Data Generators
 http://www.mockaroo.com - Generates fake data in CSV, JSON, SQL, and Excel formats.
@@ -39,7 +48,7 @@ https://jsonlint.com/ - JSON validator and reformatter
 
 http://browsershots.org/ - Browsershots lets you see how your site looks on different operating systems and browsers (and various versions)
 
-https://github.com/prettier/prettier - Opinionated code formatter that helps keeps thing orderly and consistent when large groups contribute to a single codebase. 
+https://github.com/prettier/prettier - Opinionated code formatter that helps keeps thing orderly and consistent when large groups contribute to a single codebase.
 
 ## Linters
 https://github.com/stylelint/stylelint - A modern CSS linter and fixer that helps you avoid errors and enforce consistent conventions
@@ -47,9 +56,11 @@ https://github.com/stylelint/stylelint - A modern CSS linter and fixer that help
 https://eslint.org/ - Allows you to create and enforce your own configurable linting rules on JavaScript
 
 ## Online Editors
-https://codepen.io/ 
+https://codepen.io/
 
 https://jsfiddle.net/
+
+https://jsbin.com
 
 ## Website Performance Testing
 https://developers.google.com/speed/pagespeed/insights/ - Google PageSpeed: Understand how your webpage performance
@@ -61,9 +72,16 @@ http://yslow.org/ - Browser extension that analyzes web pages and why they're sl
 ## Diagrams / Drawing (architecture)
 https://www.websequencediagrams.com/ - Great if you need to create flow or architectural diagrams
 
-## JS Transpilers 
+## JS Transpilers
 https://babeljs.io/repl/ - JavaScript ES5 to ES6
 
 https://decaffeinate-project.org/repl/ - CoffeeScript to ES6
 
 https://lebab.io/ - JavaScript ES5 to ES6
+
+## JS Bundler
+https://webpack.js.org/
+
+https://parceljs.org/
+
+https://rollupjs.org
