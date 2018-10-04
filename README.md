@@ -99,5 +99,11 @@ https://parceljs.org/
 
 https://rollupjs.org
 
-## JS Frameworks
+## JS Frameworks / Libraries
 https://electronjs.org/ - Build desktop apps with Javascript, HTML and CSS.
+
+https://reactjs.org/ - A JavaScript library for building user interfaces
+
+https://vuejs.org/ - The Progressive JavaScript Framework
+
+https://angular.io/
