@@ -18,6 +18,8 @@ http://www.colorzilla.com/gradient-editor/ - Ultimate CSS gradient generator
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - A complete guide to Flexbox
 
+https://css-tricks.com/snippets/css/complete-guide-grid/ - A complete guide to CSS Grid Layout
+
 https://spritegen.website-performance.org/ - CSS Sprite Generator
 
 ## CSS Pre-Processors
@@ -38,6 +40,15 @@ https://picsvg.com/ - Converts images to SVG
 
 https://www.svgcreator.com/ - Converts JPG/JPEG/PNG/GIF to SVG
 
+## Design Awwards / Inspiration
+https://www.awwwards.com/
+
+https://www.cssdesignawards.com/
+
+https://www.designbombs.com/
+
+https://www.siteinspire.com/
+
 ## Text & Fake Data Generators
 http://www.mockaroo.com - Generates fake data in CSV, JSON, SQL, and Excel formats.
 
@@ -49,6 +60,8 @@ https://jsonlint.com/ - JSON validator and reformatter
 http://browsershots.org/ - Browsershots lets you see how your site looks on different operating systems and browsers (and various versions)
 
 https://github.com/prettier/prettier - Opinionated code formatter that helps keeps thing orderly and consistent when large groups contribute to a single codebase.
+
+https://carbon.now.sh - Create and share beautiful images of your source code.
 
 ## Linters
 https://github.com/stylelint/stylelint - A modern CSS linter and fixer that helps you avoid errors and enforce consistent conventions
@@ -85,3 +98,6 @@ https://webpack.js.org/
 https://parceljs.org/
 
 https://rollupjs.org
+
+## JS Frameworks
+https://electronjs.org/ - Build desktop apps with Javascript, HTML and CSS.
